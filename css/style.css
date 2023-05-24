@@ -1,0 +1,105 @@
+body {
+    background: #f6f5f5;
+}
+
+header {
+    background: #3498db;
+
+    text-align: center;
+    padding: 35px 35px;
+}
+
+.input {
+    width: 95%;
+    box-sizing: border-box;
+    padding: 6px;
+}
+
+.title {
+    font-weight: bolder;
+    color: white;
+    font-size: larger;
+    font-family: sans-serif;
+}
+
+.subtitle {
+    color: #d5d5d5;
+    font-size: medium;
+}
+
+.card {
+    background: white;
+    border: 1em solid #f6f5f5;
+    border-top-width: 25px;border-right-width: 10px;border-left-width: 10px;
+}
+
+.well {
+    font-weight: bold;
+    font-size: 35px;
+    font-family: Arial;
+}
+
+.squaree {
+    background-color: #2880b9;
+    text-align: center;
+    padding: 45px 45px;
+    font-weight:bold;
+    font-size: 35px;
+    color: white;
+    font-family:'Poppins', sans-serif;
+
+}
+
+.figure {
+    min-height: 375px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.formula-desc {
+    margin-left: 46px;
+}
+
+.example-square {
+    Border: 4px solid red;
+    height: 100px;
+    width: 100px
+}
+
+.ls {
+    font-weight: bolder;
+}
+
+.hm2 {
+    font-size: 40px;
+    font-family: Arial;
+}
+
+.forms {
+    margin-left: 24px;
+}
+
+.hitung {
+    background-color: #2880b9;
+    color: white;
+    border: none;
+    border-radius: 16px;
+    padding: 20px;
+    width: 97px;
+    height: 61px;
+    font-size: 16px;
+}
+
+.reset {
+    position: absolute;
+    right: 10%  ;
+    background-color: #efad4e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: -25px;
+    width: 76px;
+    height: 32px;
+    font-size: 16px;
+}
